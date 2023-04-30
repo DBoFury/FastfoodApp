@@ -1,0 +1,34 @@
+[
+    {
+        "model": "products.attribute",
+        "pk": 1,
+        "fields": {
+            "title": "Dough",
+            "title_ukr": "Тісто"
+        }
+    },
+    {
+        "model": "products.attribute",
+        "pk": 2,
+        "fields": {
+            "title": "Size",
+            "title_ukr": "Розмір"
+        }
+    },
+    {
+        "model": "products.attribute",
+        "pk": 3,
+        "fields": {
+            "title": "Volume",
+            "title_ukr": "Об'єм"
+        }
+    },
+    {
+        "model": "products.attribute",
+        "pk": 4,
+        "fields": {
+            "title": "Spiciness",
+            "title_ukr": "Гострота"
+        }
+    }
+]

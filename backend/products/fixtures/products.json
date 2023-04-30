@@ -1,0 +1,66 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "title": "Double Chicken",
+            "title_ukr": "Подвійна куряча",
+            "description": "Chicken, mozzarella, signature sauce, alfredo",
+            "description_ukr": "Курка, моцарела, фірмовий соус, альфредо",
+            "price": 180,
+            "image_url": "https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/2014_garlic-chicken-pizza_600x600.jpg?ext=.jpg",
+            "slug": "double-chicken",
+            "rating": 0,
+            "stock": 15,
+            "category": 1
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 2,
+        "fields": {
+            "title": "Rich Cranberry fruit drink",
+            "title_ukr": "Морс Rich Журавлинний",
+            "description": "Prepared artesian water, concentrated cranberry juice, sugar, concentrated grape juice, acidity regulator citric acid, natural cranberry flavor.",
+            "description_ukr": "Вода артезіанська підготовлена, сік з журавлини концентрований, цукор, сік виноградний концентрований, регулятор кислотності лимонна кислота, натуральний ароматизатор журавлини.",
+            "price": 20,
+            "image_url": "https://img2.zakaz.ua/1.1602764002.ad72436478c_2020-10-15_Tatyana_L/1.1602764002.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+            "slug": "rich-cranberry-fruit-drink",
+            "rating": 0,
+            "stock": 50,
+            "category": 2
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "title": "Cheese chicken",
+            "title_ukr": "Сирна куряча",
+            "description": "Chicken, mozzarella, cheddar and Parmesan cheeses, cheese sauce, tomatoes, special alfredo sauce, garlic.",
+            "description_ukr": "Курка, моцарела, сири чеддер та пармезан, сирний соус, помідори, фірмовий соус альфредо, часник.",
+            "price": 235,
+            "image_url": "https://img.freepik.com/premium-photo/cheese-catupiry-and-chicken-pizza-on-indigo-blue-wooden-table-space-for-text_266402-1141.jpg",
+            "slug": "cheese-chicken",
+            "rating": 0,
+            "stock": 10,
+            "category": 1
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 4,
+        "fields": {
+            "title": "Dodster",
+            "title_ukr": "Додстер",
+            "description": "Legendary hot appetizer with chicken, tomatoes, mozzarella, ranch sauce in a thin wheat tortilla.",
+            "description_ukr": "Легендарна гаряча закуска з курчам, томатами, моцарелою, соусом ранч у тонків пшеничній коржі.",
+            "price": 50,
+            "image_url": "https://cdn.dodostatic.net/static/Img/Products/be03844e8b8a401ba4af5a4e7f74ea37_584x584.jpeg",
+            "slug": "dodster",
+            "rating": 2,
+            "stock": 11,
+            "category": 3
+        }
+    }
+]

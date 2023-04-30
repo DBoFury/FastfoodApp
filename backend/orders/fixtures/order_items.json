@@ -1,0 +1,12 @@
+[
+    {
+        "model": "orders.orderitem",
+        "pk": 1,
+        "fields": {
+            "product": 1,
+            "order": 1,
+            "amount": 1,
+            "price_per_unit": 180
+        }
+    }
+]

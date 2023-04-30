@@ -1,0 +1,26 @@
+[
+    {
+        "model": "products.category",
+        "pk": 1,
+        "fields": {
+            "title": "Pizza",
+            "title_ukr": "Піца"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 2,
+        "fields": {
+            "title": "Drink",
+            "title_ukr": "Напій"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 3,
+        "fields": {
+            "title": "Sandwich",
+            "title_ukr": "Сендвіч"
+        }
+    }
+]

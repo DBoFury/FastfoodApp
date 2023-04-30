@@ -1,0 +1,18 @@
+[
+    {
+        "model": "users.preferred",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "product": 4
+        }
+    },
+    {
+        "model": "users.preferred",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "product": 2
+        }
+    }
+]

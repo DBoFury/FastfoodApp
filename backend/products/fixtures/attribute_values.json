@@ -1,0 +1,134 @@
+[
+    {
+        "model": "products.attributevalue",
+        "pk": 1,
+        "fields": {
+            "category": 1,
+            "attribute": 1,
+            "value": "Traditional",
+            "value_ukr": "Традиційне",
+            "price_addition": 0
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 2,
+        "fields": {
+            "category": 1,
+            "attribute": 2,
+            "value": "26 cm.",
+            "value_ukr": "26 cm.",
+            "price_addition": 0
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 3,
+        "fields": {
+            "category": 1,
+            "attribute": 1,
+            "value": "Slim",
+            "value_ukr": "Тонке",
+            "price_addition": 15
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 4,
+        "fields": {
+            "category": 1,
+            "attribute": 2,
+            "value": "30 cm.",
+            "value_ukr": "30 cm.",
+            "price_addition": 5
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 5,
+        "fields": {
+            "category": 1,
+            "attribute": 2,
+            "value": "40 cm.",
+            "value_ukr": "40 cm.",
+            "price_addition": 10
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 6,
+        "fields": {
+            "category": 2,
+            "attribute": 3,
+            "value": "0.5L",
+            "value_ukr": "0.5L",
+            "price_addition": 0
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 7,
+        "fields": {
+            "category": 2,
+            "attribute": 3,
+            "value": "1L",
+            "value_ukr": "1L",
+            "price_addition": 10
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 8,
+        "fields": {
+            "category": 3,
+            "attribute": 2,
+            "value": "S",
+            "value_ukr": "S",
+            "price_addition": 0
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 9,
+        "fields": {
+            "category": 3,
+            "attribute": 2,
+            "value": "M",
+            "value_ukr": "M",
+            "price_addition": 10
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 10,
+        "fields": {
+            "category": 3,
+            "attribute": 2,
+            "value": "L",
+            "value_ukr": "L",
+            "price_addition": 20
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 11,
+        "fields": {
+            "category": 3,
+            "attribute": 4,
+            "value": "Classic",
+            "value_ukr": "Classic",
+            "price_addition": 0
+        }
+    },
+    {
+        "model": "products.attributevalue",
+        "pk": 12,
+        "fields": {
+            "category": 3,
+            "attribute": 4,
+            "value": "Spicy",
+            "value_ukr": "Spicy",
+            "price_addition": 10
+        }
+    }
+]
